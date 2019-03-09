@@ -1,0 +1,9 @@
+*.txt
+tinyhttp/server
+tinyhttp/cgi-bin/
+
+tinyhttp/Makefile
+tinyhttp/cmakentop
+*.json
+tinyhttp/CMakeFiles/
+
